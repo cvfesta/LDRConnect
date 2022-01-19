@@ -63,47 +63,47 @@ if /i "%id%"=="10" goto sub_psw
 goto:sub_error
 
 :sub_uni
-"\\earth3\unisys\LeaderConnect\tools\UNI.cmd"
+"\\server3\LeaderConnect\tools\UNI.cmd"
 goto:eof
 
 :sub_LTE
-"\\earth3\unisys\LeaderConnect\tools\LTE.cmd"
+"\\server3\LeaderConnect\tools\LTE.cmd"
 goto:eof
 
 :sub_BCV
-"\\earth3\unisys\LeaderConnect\tools\BCV.cmd"
+"\\server3\LeaderConnect\tools\BCV.cmd"
 goto:eof
 
 :sub_DAT
-"\\earth3\unisys\LeaderConnect\tools\DAT.cmd"
+"\\server3\LeaderConnect\tools\DAT.cmd"
 goto:eof
 
 :sub_DEV
-"\\earth3\unisys\LeaderConnect\tools\DEV.cmd"
+"\\server3\LeaderConnect\tools\DEV.cmd"
 goto:eof
 
 :sub_MSE
-"\\earth3\unisys\LeaderConnect\tools\MSE.cmd"
+"\\server3\LeaderConnect\tools\MSE.cmd"
 goto:eof
 
 :sub_SDA
-"\\earth3\unisys\LeaderConnect\tools\SDA.cmd"
+"\\server3\LeaderConnect\tools\SDA.cmd"
 goto:eof
 
 :sub_STG
-"\\earth3\unisys\LeaderConnect\tools\STG.cmd"
+"\\server3\LeaderConnect\tools\STG.cmd"
 goto:eof
 
 :sub_pb5
-"\\earth3\unisys\LeaderConnect\tools\pb5.cmd"
+"\\server3\LeaderConnect\tools\pb5.cmd"
 goto:eof
 
 :sub_user
-"\\earth3\unisys\LeaderConnect\tools\User.cmd"
+"\\server3\LeaderConnect\tools\User.cmd"
 goto:eof
 
 :sub_uni_noscrchg
-"\\earth3\unisys\LeaderConnect\tools\UNI_noscrchg.cmd"
+"\\server3\LeaderConnect\tools\UNI_noscrchg.cmd"
 goto:eof
 
 :sub_psw
